@@ -1,9 +1,8 @@
 {
-  {
-    "folders": [
-      { "name": "Aktivity" },
-      { "name": "Rozvrh" },
-      { "name": "Finance" },
-      { "name": "Schuzky" }
-    ]
-  }
+  "folders": [
+    { "name": "Aktivity" },
+    { "name": "Rozvrh" },
+    { "name": "Finance" },
+    { "name": "Schuzky" }
+  ]
+}
