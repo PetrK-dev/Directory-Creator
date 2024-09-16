@@ -1,0 +1,45 @@
+{
+  "folders": [
+    {
+      "name": "Dokumentace",
+      "folders": [
+        {
+          "name": "Specifikace"
+        },
+        {
+          "name": "Návrhy",
+          "folders": [
+            {
+              "name": "Verze 1"
+            },
+            {
+              "name": "Verze 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zdrojové kódy",
+      "folders": [
+        {
+          "name": "Frontend"
+        },
+        {
+          "name": "Backend",
+          "folders": [
+            {
+              "name": "API"
+            },
+            {
+              "name": "Databáze"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testy"
+    }
+  ]
+}
